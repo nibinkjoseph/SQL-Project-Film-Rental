@@ -9,3 +9,6 @@ Insert into actor
 ![image](https://github.com/nibinkjoseph/SQL-Project-Film-Rental/assets/63180074/80008b56-ada3-4a76-9e59-1be295799e4c)
 
 
+#Address
+
+![image](https://github.com/nibinkjoseph/SQL-Project-Film-Rental/assets/63180074/d44426c0-e9a3-4e30-921b-4bde28c1eb25)
